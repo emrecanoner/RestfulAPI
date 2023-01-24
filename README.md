@@ -1,4 +1,4 @@
-# restfull_api
+# restful_api
 
 A new Flutter project.
 
